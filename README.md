@@ -1,15 +1,11 @@
 # NoSQLdb_HW0
 
 1.	ScyllaDB is a PA/EL highly available, partition tolerant, low latency system. ScyllaDB was designed to provide consistent low-latencies, not just be highly available, and it also provides tunable consistency. Under any conditions short of a complete system failure, ScyllaDB will remain highly available with predictable low latencies for mission critical applications.
-ScyllaDB outperforms a distributed NewSQL database such as CockroachDB by a wide margin. Built for high availability, ScyllaDB still delivers tunable consistency, zero downtime, and high performance. 
-
-  **(AP)**
+ScyllaDB outperforms a distributed NewSQL database such as CockroachDB by a wide margin. Built for high availability, ScyllaDB still delivers tunable consistency, zero downtime, and high performance.  **(AP)**
 
 https://www.scylladb.com/product/technology/high-availability/
 
-2.	Arenadata DB (ADB) — аналитическая, распределённая СУБД, построенная на MPP-системе с открытым исходным кодом Greenplum. Она предназначена для хранения и обработки больших объёмов информации — до десятков петабайт. (аналогично greenplum & postgres - CA)
-
-  **(CA)**
+2.	Arenadata DB (ADB) — аналитическая, распределённая СУБД, построенная на MPP-системе с открытым исходным кодом Greenplum. Она предназначена для хранения и обработки больших объёмов информации — до десятков петабайт. (аналогично greenplum & postgres - CA)  **(CA)**
 
 https://arenadata.tech/products/arenadata-db/
 
