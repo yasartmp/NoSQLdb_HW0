@@ -16,4 +16,4 @@ Dragonfly's core properties make it a cost-effective, high-performing, and easy-
 
 https://d7y.io/docs/v2.0.2/
 
-![CAP classification](https://psv4.userapi.com/c237231/u406253434/docs/d36/6976b08f3273/CAP.png?extra=PWoYMsmU-uPUNdhu9OfjvRYTM9DNtlO3h1Tqh2odVA9hz0SY4KNMCpeKiZEVULNFF4bwFr7lAGv2nTS6arP-o1Psh5HG9JY9sZoq-nHM5uqWxEnbMaVSar5alXKhMPWSVtoYJgBPFSyBu7Rq443nWhL88po)
+![CAP classification](https://sun9-35.userapi.com/impg/O4K5GkZiv8xRs0taFOSkGG4YvGBzwTmHoQgCCA/JZB00Tupja4.jpg?size=354x260&quality=96&sign=7db788632766a2e42318bacd07168e1e&type=album)
